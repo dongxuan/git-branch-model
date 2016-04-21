@@ -21,5 +21,5 @@ void test3() {
 
 
 void register() {
-   printf("register");
+   printf("register new !!");
 }
