@@ -29,5 +29,6 @@ void test6(){
 }
 
 void register() {
+   // fix this in release branch	 
    printf("register new feature !!");
 }
