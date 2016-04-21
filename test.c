@@ -10,5 +10,5 @@ void login() {
 }
 
 void register() {
-   printf("register");
+   printf("register new !!");
 }
