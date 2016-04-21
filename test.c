@@ -29,6 +29,7 @@ void test6(){
 }
 
 void register() {
-   // fix this in release branch	 
+   // fix this in release branch
+   // fix network issue	 
    printf("register new feature !!");
 }
