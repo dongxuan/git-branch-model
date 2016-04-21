@@ -8,3 +8,7 @@ int main() {
 void login() {
    printf("Login.");
 }
+
+void register() {
+   printf("register");
+}
