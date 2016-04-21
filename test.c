@@ -28,3 +28,6 @@ void test5(){
 void test6(){
 }
 
+void register() {
+   printf("register");
+}
