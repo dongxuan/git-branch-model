@@ -20,3 +20,6 @@ void test3() {
 }
 
 
+void register() {
+   printf("register");
+}
