@@ -12,3 +12,7 @@ void login() {
 
 void test() {
 }
+
+void test2() {
+}
+
