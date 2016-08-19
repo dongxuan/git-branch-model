@@ -1,7 +1,7 @@
 #include "stdio.h"
 
 int main() {
-   test();	
+   test("www");	
    return 0;
 }
 
@@ -10,7 +10,7 @@ void login() {
    printf("Login.");
 }
 
-void test() {
+void test(char* we) {
 }
 
 void test2() {
